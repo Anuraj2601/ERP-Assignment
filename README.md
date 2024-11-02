@@ -30,4 +30,4 @@ To set up the project on your local environment, follow these steps:
 2. **Clone the Repository**:
    Open your terminal or command prompt and run:
    ```bash
-   git clone 
+   git clone https://github.com/Anuraj2601/ERP-Assignment.git
